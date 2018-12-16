@@ -1,0 +1,22 @@
+[C]§f===============
+[C]§eSnowballClient Credits
+[C]§f===============
+
+§7Created by:
+§f			Eric Golde
+
+§7My Wonderful Beta Testers:
+§f			No one yet ;)
+
+§7Special thanks to:
+§f			Mojang - For creating this wonderful game
+§f			The SpoutTeam - For the original inspiration behind this whole project
+§f			The MCP Team - For creating a the tools I used to create this
+§f			The Forge Devs - For creating the forge mod loader
+§f			The wonderful team over at FontAwesome for their icons
+§f			Peter Golde - For listening me complain about bugs 24/7, and for helping me fix some of them!
+
+
+
+
+§f"Visualize this thing that you want, see it, feel it, believe in it. make your mental blue print and begin to build" §7- Robert Collier
